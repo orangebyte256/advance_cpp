@@ -1,0 +1,7 @@
+____Loading complete.  Analyzing...
+____Found 1 test target...
+____[1 / 6] Compiling stream/stream.cpp
+FAIL: //test:stream-test (see /home/orangebyte256/.cache/bazel/_bazel_orangebyte256/11b03b634d75fb747979db4058bdf6e6/execroot/advance_cpp/bazel-out/local-fastbuild/testlogs/test/stream-test/test.log)
+Target //test:stream-test up-to-date:
+  bazel-bin/test/stream-test
+____Elapsed time: 2.337s, Critical Path: 2.20s
